@@ -5,7 +5,7 @@
 C++17 chess game with client-server architecture, multi-threading, and raw WinSock2 networking.
 
 ---
-<img width="1919" height="1009" alt="изображение" src="https://github.com/user-attachments/assets/5d9a93df-9941-4531-8e83-49fec9e845db" />
+<img width="1919" height="1009" alt="изображение" src="https://github.com/user-attachments/assets/8b4ba6ef-ab58-4845-beea-4fa1281052b0" />
 
 ---
 
